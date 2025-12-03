@@ -1,0 +1,83 @@
+body {
+    font-family: "Roboto", sans-serif;
+
+}
+
+/* header-logo */
+
+.logo {
+    font-family: "Raleway",
+        sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--cloud);
+
+}
+
+.logo .web {
+    color: #4d5ae5;
+}
+
+.logo {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.logo-logo-dark {
+    color: #000000;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--navy-blue);
+}
+
+
+.logo-logo-dark .web {
+    color: #4d5ae5;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    gap: 0px;
+}
+
+/*  type-button */
+
+.blok-button {
+
+    background: #2e2f42;
+    color: #ffffff;
+
+    line-height: 1.07143;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+
+button:hover {
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+    background: #4853ce;
+}
+
+
+button {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: row;
+    gap: 10px;
+    background-color: #4d5ae5;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+}
+
+    
+  
