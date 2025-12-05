@@ -1,6 +1,6 @@
 body {
     font-family: "Roboto", sans-serif;
-
+    color: #434455;
 
 
 }
@@ -103,7 +103,6 @@ nav ul li a:hover {
 
 address ul li a {
     font-style: normal;
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -116,13 +115,7 @@ address ul li a:hover {
 
 /* list-of-features */
 
-.list-of-features h2 {
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 1.11111;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
+
 
 .list-of-features h3 {
     font-weight: 500;
@@ -133,7 +126,7 @@ address ul li a:hover {
 }
 
 .list-of-features p {
-    font-weight: 400;
+
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -183,7 +176,6 @@ a {
     text-align: center;
     justify-content: center;
     color: #434455;
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -220,7 +212,7 @@ a {
 
 
 .portfolio-list p {
-    font-weight: 400;
+
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
